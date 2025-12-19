@@ -31,7 +31,7 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: github # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories: [project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
@@ -45,7 +45,7 @@ authors:
   chaeyeon son:
     name: chaeyeon son
     bio: Welcome to my webpage!
-    external-image: false
+    external-image: true
     picture: B1.jpg
    # twitter: johndoe
   jamesfoster:
