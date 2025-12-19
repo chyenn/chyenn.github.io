@@ -9,7 +9,7 @@ picture: B1.jpg
 
 <p>Birth : 2004.12.17.</p>
 
-<p>Birth : 2004.12.17.</p>
+<p>MBTI : ISTP</p>
 
 
 <h2>Major</h2>
