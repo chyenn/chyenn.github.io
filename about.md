@@ -2,8 +2,7 @@
 title: About
 layout: page
 ---
-external-image: true
-picture: B1.jpg
+![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>name : chaeyeon son</p>
 
@@ -19,10 +18,3 @@ picture: B1.jpg
 	
 </ul>
 
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
