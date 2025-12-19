@@ -2,7 +2,8 @@
 title: About
 layout: page
 ---
-[Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+external-image: true
+picture: B1.jpg
 
 <p>name : chaeyeon son</p>
 
@@ -11,22 +12,11 @@ layout: page
 <p>Birth : 2004.12.17.</p>
 
 
-<h2>Skills</h2>
+<h2>Major</h2>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Tests)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+<ul class="Major-list">
+	<li>English Language $ Literature</li>
+	
 </ul>
 
 <h2>Projects</h2>
