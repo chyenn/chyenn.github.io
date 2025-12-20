@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Schedule
+nav: ture
 permalink: /schedule/
 ---
 
