@@ -18,11 +18,8 @@ layout: page
 
 
 <h2>Major</h2>
+<p>English Language & Literature</p>
 
-<ul class="Major-list">
-	<li>English Language & Literature</li>
-	
-</ul>
 
 <h2>Interests</h2>
 
