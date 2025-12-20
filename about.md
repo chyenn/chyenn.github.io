@@ -4,7 +4,7 @@ layout: page
 ---
 ![B1]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>NAME : chaeyeon son</p>
+<p>Name : Chaeyeon Son</p>
 
 <p>Birth : 2004.12.17.</p>
 
