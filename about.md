@@ -14,7 +14,7 @@ layout: page
 <h2>Major</h2>
 
 <ul class="Major-list">
-	<li>English Language $ Literature</li>
+	<li>English Language & Literature</li>
 	
 </ul>
 
