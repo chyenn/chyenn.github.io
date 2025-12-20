@@ -38,6 +38,14 @@
             {% endif %}
         {% endif %}
 
+                {% if site.playlist == true %}
+            {% if page.title != "Playlist" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/playlist">Playlist</a>
+                </li>
+            {% endif %}
+        {% endif %}
+
        
     </ul>
 </nav>
