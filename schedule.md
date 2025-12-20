@@ -10,5 +10,5 @@ permalink: /schedule/
 
 ![Alt text](B5.jpg)
 
-##If you'd like to see more available dates or schedule a meeting, click [here](https://calendar.google.com/calendar/u/0/r, "google calendar").
+##If you'd like to see more available dates or schedule a meeting, click [here](https://calendar.google.com/calendar/u/0/r).
 
