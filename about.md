@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![B1]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+![B3]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>Name : Chaeyeon Son</p>
 
