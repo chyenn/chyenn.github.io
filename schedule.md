@@ -6,9 +6,9 @@ permalink: /schedule/
 
 # Schedule
 
-##This is my timetable in 2025!
+## This is my timetable in 2025!
 
 ![Alt text](B5.jpg)
 
-##If you'd like to see more available dates or schedule a meeting, click [here](https://calendar.google.com/calendar/u/0/r).
+## If you'd like to see more available dates or schedule a meeting, click [here](https://calendar.google.com/calendar/u/0/r).
 
