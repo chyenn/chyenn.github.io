@@ -31,13 +31,11 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: github # enter this from your disqus account
-  categories: [project, about] # only show disqus for posts that have these categories
+  categories: [about] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-#facebook: myfacebook
-#twitter: mytwitter
+
 instagram: https://www.instagram.com/chye.n_?igsh=a3VmMHdtNG5ibjgw&utm_source=qr
-#linkedin: mylinkedin
 github: https://github.com/chyenn/
 email: ssmjskscy04@gmail.com
 
