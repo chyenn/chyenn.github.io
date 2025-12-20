@@ -49,11 +49,11 @@ authors:
     picture: B1.jpg
    # twitter: johndoe
   jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
+    name: chaeyeon son
+    bio: hi, this is my webpage
     external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    picture: assets/images/B4.jpg
+    twitter: chaen
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
