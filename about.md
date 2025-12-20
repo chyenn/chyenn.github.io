@@ -8,7 +8,8 @@ layout: page
 <p>   </p>
 
 <p>Welcome! Thank you for being here:)</p>
-<p>profile</p>
+<h2>Profile</h2>
+
 <p>Name : Chaeyeon Son</p>
 
 <p>Birth : 2004.12.17</p>
@@ -22,7 +23,8 @@ layout: page
 	<li>English Language & Literature</li>
 	
 </ul>
-<p>Interests</p>
+
+<h2>Interests</h2>
 
 <p>• English Language & Linguistics</p>
 
