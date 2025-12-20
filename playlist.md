@@ -33,4 +33,3 @@ permalink: /playlist/
 [![Alt text](C6.jpg)](https://youtu.be/HPR-VwzbDRg?si=nOEKumGZUQwLHoQM)
 
 
-![Alt text](C6.jpg)
