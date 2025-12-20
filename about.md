@@ -6,9 +6,9 @@ layout: page
 
 <p>   </p>
 <p>   </p>
-<p>   </p>
-<p>Welcome! Thank you for being here:)</p>
 
+<p>Welcome! Thank you for being here:)</p>
+<p>profile</p>
 <p>Name : Chaeyeon Son</p>
 
 <p>Birth : 2004.12.17</p>
@@ -22,4 +22,10 @@ layout: page
 	<li>English Language & Literature</li>
 	
 </ul>
+<p>Interests</p>
 
+<p>• English Language & Linguistics</p>
+
+<p>• Education / Teaching</p>
+
+<p>• Travel</p>
