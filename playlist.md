@@ -4,7 +4,9 @@ title: Playlist
 permalink: /playlist/
 ---
 
-## This is my playlist 🎧
+##  playlist 🎧
+
+### Click the image to listen! 
 
 <p> Like my father - Jax </p>
 
